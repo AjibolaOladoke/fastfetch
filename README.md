@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the fastfetch notes, ex
 
 ## Images
 
-[![fastfetch](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![fastfetch](images/preview.png)](https://github.com/Swift-Tech-Co/fastfetch)
 
 ## Installation
 
@@ -303,6 +303,14 @@ Give us a star to show your support!
     <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=fastfetch-cli/fastfetch&type=Date" />
   </picture>
 </a>
+
+## Sources
+
+Compiled and maintained from upstream [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
